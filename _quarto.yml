@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    style: "docked"
+    type: "dark"
+    search: true
+    contents: auto
+
+
+
+format:
+  html:
+    theme:
+    - cosmo
+    - FaT_custom.scss
+    toc: true
+
+
+

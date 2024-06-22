@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+/*-- Define colors for later use --*/
+$white: #fff;
+$gray-100: #f8f9fa;
+$black: #000;
+$primary: #51504f;
+$secondary: #060504;
+$body-color:            $secondary !default;
+
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+
+  }
